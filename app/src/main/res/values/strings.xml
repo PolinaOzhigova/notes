@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string-array name="price_name">
+        <item>Пробный период</item>
+        <item>1 год</item>
+        <item>1 месяц</item>
+        <item>Вечная подписка</item>
+    </string-array>
+    <string-array name="price">
+        <item>0 \U+20BD</item>
+        <item>1490 \U+20BD</item>
+        <item>250 \U+20BD</item>
+        <item>4950 \U+20BD</item>
+    </string-array>
+</resources>
